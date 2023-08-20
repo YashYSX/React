@@ -25,7 +25,7 @@ function makeallokulcha(allo,dough,callback){
 getallo((allo)=>{
     makedough(allo,(dough)=>{
         makeallokulcha(allo,dough,(kulcha)=>{
-            console.log("kha le bhai tu ab.......");
+            console.log("kha le bhai tu ab vo to akeli akeli pta nahi kiske sath prty kr rhi h 😪.......");
         })
     })
 })
