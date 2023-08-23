@@ -1,14 +1,14 @@
-import logo from './logo.svg';
+import React from "react"
 import './App.css';
-
+import NavBar from "./component/NavBar";
+import HomeCarousel from "./component/HomeCarousel";
 function App() {
   return (
-    (<h1>hello</h1>),
-    (<p>yashysx</p>),
-    (<h2>ysx</h2>)
-    
-    
-  );
+    <div>
+      <NavBar />
+      <HomeCarousel />
+    </div>
+    );
 }
 
 export default App;
