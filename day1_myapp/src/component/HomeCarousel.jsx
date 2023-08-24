@@ -13,7 +13,7 @@ const HomeCarousel = () => {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img src="https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_640.jpg"alt="" />
+        <img src="https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_640.jpg"alt=""/>
         <Carousel.Caption>
           <h3>Second slide label</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
